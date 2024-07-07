@@ -5,8 +5,9 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Update Logs](#update-logs)
+4. [FFMpeg](#ffmpeg)
+5. [Usage](#usage)
+6. [Update Logs](#update-logs)
 7. [License](#license)
 
 ## Introduction
@@ -25,6 +26,16 @@ Follow these steps to install the application:
 
 1. Download the repository:
 2. Extract the downloaded repository using a program like WinRar, or 7zip.
+
+### FFMpeg
+
+Make sure to open CleanFlicks.exe once to create the neccessary directories.
+
+1. Go to the [FFMpeg Github Page](https://github.com/GyanD/codexffmpeg/releases/tag/7.0.1)
+2. Download and extract the FFMpeg Essentials Build (7z or zip)
+3. Navigate to the `/bin` directory inside the extracted files
+4. Copy the `ffmpeg.exe` file from the FFMpeg bin, into the CleanFlicks /bin/dependencies/
+5. You should now be able to run CleanFlicks.exe without an error message.
 
 ## Usage
 
